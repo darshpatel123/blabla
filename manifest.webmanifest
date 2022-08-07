@@ -1,0 +1,12 @@
+{
+  "name": "Expanded P2P Networking Example",
+  "short_name": "Expanded P2P Networking Example",
+  "id": "com.example.multiplayergamefor2ormore",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
